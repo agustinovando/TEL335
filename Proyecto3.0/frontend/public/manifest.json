@@ -1,0 +1,9 @@
+{
+    "name": "ProyectoAPP",
+    "short_name": "APP",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1e90ff"
+  }
+  

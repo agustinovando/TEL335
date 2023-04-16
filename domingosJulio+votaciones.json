@@ -1,0 +1,7 @@
+[{"nombre":"Primer domingo","comentarios":null,"fecha":"2023-07-02","irrenunciable":"0","tipo":"Civil"},
+{"nombre":"Segundo domingo","comentarios":null,"fecha":"2023-07-09","irrenunciable":"0","tipo":"Civil"},
+{"nombre":"Tercer domingo","comentarios":null,"fecha":"2023-07-16","irrenunciable":"0","tipo":"Civil"},
+{"nombre":"Cuerto domingo","comentarios":null,"fecha":"2023-07-23","irrenunciable":"0","tipo":"Civil"},
+{"nombre":"Quinto domingo","comentarios":null,"fecha":"2023-07-30","irrenunciable":"0","tipo":"Civil"},
+{"nombre":"Domingos feriado por votaciones","comentarios":"Votaciones consejales","fecha":"2023-05-07","irrenunciable":"0","tipo":"Votación"},
+{"nombre":"Domingo feriado por votaciones","comentarios":"Votaciones plebiscito","fecha":"2023-12-17","irrenunciable":"0","tipo":"Votación"}]
